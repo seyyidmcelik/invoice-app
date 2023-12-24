@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://mauricius.dev/images/laravel-vue.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/invoice-app/laravel-vue.png" width="400" alt="Laravel Vue Logo"></p>
 
 # Invoice Generator App
 
