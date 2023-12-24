@@ -18,7 +18,6 @@ The Invoice Generator App is a web application built using Laravel and Vue.js. I
 
 - [Composer](https://getcomposer.org/) for Laravel dependencies.
 - [Node.js](https://nodejs.org/) for Vue.js dependencies.
-- [MySQL](https://www.mysql.com/) or another database system.
 - [XAMPP](https://www.apachefriends.org/tr/index.html) for apache server and mysql
 
 ## Installation
